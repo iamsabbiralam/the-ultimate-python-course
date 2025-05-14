@@ -10,3 +10,10 @@ print(t)
 print(str(31))
 print(int(32))
 print(float(32))
+
+# type() # function returns the type of the object
+# isinstance() # function checks if an object is of a certain type
+# str() # function converts an object to a string
+# int() # function converts an object to an integer
+# float() # function converts an object to a float
+# bool() # function converts an object to a boolean
